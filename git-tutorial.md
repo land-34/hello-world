@@ -1,13 +1,13 @@
 # git コマンド
-* 初期化・設定・確認
+* 初期化・確認・設定
   * git init
   * git status
   * git config
-* コミット
+* コミットするまで
   * git add
   * git commit
 * 削除
   * git rm
-* ブランチ
+* ブランチ系
   * git branch
   * git checkout (ブランチの切り替え)
